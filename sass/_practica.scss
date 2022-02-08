@@ -1,0 +1,18 @@
+.box-1 {
+  color: map-get($estilos, color);
+  font-weight: map-get($estilos, bold);
+  text-transform: map-get($estilos, may);
+  text-align: map-get($estilos, centrado);
+  font-size: map-get($estilos, fsize);
+  margin: map-get($estilos, mauto);
+}
+
+.box-2 {
+  @extend .box-1;
+  @include sizes(500px, 200px);
+  background-color: #eeeac4;
+  border: 5px solid black;
+  h2 {
+    padding-top: 20px;
+  }
+}

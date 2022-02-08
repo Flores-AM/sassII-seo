@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,MAAM,EASN,MAAM,CATC;EACL,KAAK,EDAE,OAAO;ECCd,WAAW,EDGL,IAAI;ECFV,cAAc,EDGT,SAAS;ECFd,UAAU,EDFA,MAAM;ECGhB,SAAS,EDFF,IAAI;ECGX,MAAM,EDFC,CAAC,CAAC,IAAI;CCGd;;AAED,AAAA,MAAM,CAAC;EDCL,MAAM,ECCgB,KAAK;EDA3B,KAAK,ECAU,KAAK;EACpB,gBAAgB,EAAE,OAAO;EACzB,MAAM,EAAE,eAAe;CAIxB;;AARD,AAKE,MALI,CAKJ,EAAE,CAAC;EACD,WAAW,EAAE,IAAI;CAClB",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/_variables.scss",
+        "../sass/_practica.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

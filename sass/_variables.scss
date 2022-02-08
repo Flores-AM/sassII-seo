@@ -1,0 +1,13 @@
+$estilos: (
+  color: #4e2683,
+  centrado: center,
+  fsize: 40px,
+  mauto: 0 auto,
+  bold: bold,
+  may: uppercase,
+);
+
+@mixin sizes($width, $height) {
+  height: $height;
+  width: $width;
+}
